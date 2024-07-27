@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>sPhil</h1>
+  <br />
+  <p><b>s</b>ystematic <b>Phil</b>osophy</p>
 
   <br />
   <a href="https://systemphil.com/contributing">Get started</a>
