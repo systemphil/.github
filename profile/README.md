@@ -1,8 +1,25 @@
-## Hi there 👋
+<div align="center">
+  <h1>sPhil</h1>
 
-Introduction
+  <br />
+  <a href="https://systemphil.com/contributing">Get started</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://systemphil.com/">The sPhil Encyclopaedia</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://systemphil.com/contributing/methodology">Methodology</a>
+  <br />
+  <hr />
+</div>
 
-test etc.
+## Welcome 👋
+
+sPhil is a collaborative platform for developing philosophy through open-source principles, emphasizing the collective nature of thinking. You can get involved by visiting our [main site](https://systemphil.com) or visiting our repositories directly here.
+
+## 💾 Repositories
+
+- [sPhil](https://github.com/systemphil/sphil)
+- [Symposia](https://github.com/systemphil/symposia)
+
 
 <!--
 
