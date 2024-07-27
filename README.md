@@ -1,5 +1,3 @@
 # sPhil
 
-Introduction
-
-etc.
+Repository for org related matters.
