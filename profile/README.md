@@ -16,11 +16,6 @@
 
 sPhil is a collaborative platform for developing philosophy through open-source principles, emphasizing the collective nature of thinking. You can get involved by visiting our [main site](https://systemphil.com) or visiting our repositories directly here.
 
-## 💾 Repositories
-
-- [sPhil](https://github.com/systemphil/sphil)
-- [Symposia](https://github.com/systemphil/symposia)
-
 
 <!--
 
