@@ -3,18 +3,18 @@
   <p><b>s</b>ystem <b>Phil</b>osophy</p>
 
   <br />
-  <a href="https://systemphil.com/contributing">Get started</a>
+  <a href="https://sphil.xyz/contributing">Get started</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://systemphil.com/">The sPhil Encyclopaedia</a>
+  <a href="https://sphil.xyz/">The sPhil Encyclopaedia</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://systemphil.com/contributing/methodology">Methodology</a>
+  <a href="https://sphil.xyz/contributing/methodology">Methodology</a>
   <br />
   <hr />
 </div>
 
 ## Welcome 👋
 
-sPhil is a collaborative platform for developing philosophy through open-source principles, emphasizing the collective nature of thinking. You can get involved by visiting our [main site](https://systemphil.com) or visiting our repositories directly here.
+sPhil is a collaborative platform for developing philosophy through open-source principles, emphasizing the collective nature of thinking. You can get involved by visiting our [main site](https://sphil.xyz) or visiting our repositories directly here.
 
 
 <!--
