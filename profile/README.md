@@ -3,11 +3,11 @@
   <p><b>s</b>ystem <b>Phil</b>osophy</p>
 
   <br />
-  <a href="https://sphil.xyz/contributing">Get started</a>
+  <a href="https://sphil.xyz/articles/contributing">Get started</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://sphil.xyz/">The sPhil Encyclopaedia</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://sphil.xyz/contributing/methodology">Methodology</a>
+  <a href="https://sphil.xyz/articles/contributing/methodology">Methodology</a>
   <br />
   <hr />
 </div>
