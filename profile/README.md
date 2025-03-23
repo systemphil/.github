@@ -7,6 +7,8 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://sphil.xyz/">The sPhil Encyclopaedia</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://github.com/systemphil/sphil/discussions">Discussions</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://sphil.xyz/articles/contributing/methodology">Methodology</a>
   <br />
   <hr />
